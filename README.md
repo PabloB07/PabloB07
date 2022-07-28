@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/pablobcl" target="blank"><img src="https://img.shields.io/twitter/follow/pablobcl?logo=twitter&style=for-the-badge" alt="pablobcl" /></a> </p>
 
-- 🔭 I’m currently working on **frutillarstore (private)**
+- 🔭 I’m currently working on **delicias_frutillar (private)**
 
-- 🌱 I’m currently learning **Stimulus, Turbo, Crystal,soon Swift**
+- 🌱 I’m currently learning **Stimulus, Turbo, Crystal, Elixir**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PabloB07](https://github.com/PabloB07)
 
 - 📄 Know about my experiences in linkedin [https://www.linkedin.com/in/pabloblanco/](https://www.linkedin.com/in/pabloblanco/)
-
-- 💬 Ask me about **Rails, Ruby, Git, Linux**
 
 - 📫 How to reach me **pablob0798@gmail.com**
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pablo Blanco</h1>
-<h3 align="center">A Junior Rails developer.</h3>
+<h3 align="center">Im Rails Software developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablob07&label=Profile%20views&color=0e75b6&style=flat" alt="pablob07" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **delicias_frutillar (private)**
 
-- 🌱 I’m currently learning **Stimulus, Turbo, Crystal, Elixir**
+- 🌱 I’m interested in **Elixir Web3 ecosystem**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PabloB07](https://github.com/PabloB07)
 

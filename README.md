@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pablo Blanco</h1>
-<h3 align="center">Im Rails Software developer.</h3>
+<h3 align="center">Ruby on Rails Software developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablob07&label=Profile%20views&color=0e75b6&style=flat" alt="pablob07" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/pablobcl" target="blank"><img src="https://img.shields.io/twitter/follow/pablobcl?logo=twitter&style=for-the-badge" alt="pablobcl" /></a> </p>
 
-- 🔭 I’m currently working on **delicias_frutillar (private)**
+- 🔭 I’m currently working on **delicias frutillar (private project)**
 
-- 🌱 I’m interested in **Elixir Web3 ecosystem**
+- 🌱 I’m interested in **Elixir Web3 ecosystem & Game Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PabloB07](https://github.com/PabloB07)
 

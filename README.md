@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pablob07" alt="pablob07" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/pablobcl" target="blank"><img src="https://img.shields.io/twitter/follow/pablobcl?logo=twitter&style=for-the-badge" alt="pablobcl" /></a> </p>
+<p align="left"> <a href="https://twitter.com/paboblanco0798" target="blank"><img src="https://img.shields.io/twitter/follow/pablobcl?logo=twitter&style=for-the-badge" alt="pabloblano0798" /></a> </p>
 
 - 🔭 I’m currently working on **delicias frutillar (private project)**
 

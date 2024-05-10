@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pablo Blanco</h1>
-<h3 align="center">Ruby on Rails Software developer.</h3>
+<h3 align="center">Software developer.</h3>
 
-- 🔭 I’m currently working on **[GHS](https://ghservers.net), gorillas hosting servers, obtén el tuyo!**
-
-- 🌱 I’m currently interested in **Gaming ecosystem, Web development and Game Development**
+- 🌱 I’m currently interested in **Web development and Game Development**
 
 - 👨‍💻 All of my projects are available at [github.com/PabloB07](github.com/PabloB07)
 
-- 📫 How to reach me **https://blancocl.me**
+- 📫 How to reach me **[https://imcoding-pablob07.vercel.app](https://imcoding-pablob07.vercel.app)**
 
 - 📄 Know about my experiences through linkedin [https://www.linkedin.com/in/pabloblanco/](https://www.linkedin.com/in/pabloblanco/)
 

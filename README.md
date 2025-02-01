@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pablo Blanco</h1>
-<h3 align="center">Software developer.</h3>
+<h3 align="center">Programmer.</h3>
 
 - 🌱 I’m currently interested in **Web development and Game Development**
 

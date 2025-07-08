@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/PabloB07](github.com/PabloB07)
 
-- 📫 How to reach me **[https://imcoding-pablob07.vercel.app](https://blancocl.xyz)**
+- 📫 How to reach me **[https://blancocl.xyz](https://blancocl.xyz)**
 
 - 📄 Know about my experiences through linkedin [https://www.linkedin.com/in/pabloblanco/](https://www.linkedin.com/in/pabloblanco/)
 

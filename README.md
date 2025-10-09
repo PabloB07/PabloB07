@@ -1,19 +1,12 @@
 <h1 align="center">Hi 👋, I'm Pablo</h1>
-<h3 align="center">Student at IPSS from Chile.</h3>
 <h5 align="center">In constant learning about TI</h5>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pablob07&label=Profile%20views&color=0e75b6&style=flat" alt="pablob07" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pablob07&label=Profile%20views&color=0e75b6&style=flat" alt="PabloB07" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pablob07" alt="pablob07" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pablob07" alt="PabloB07" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/pabloblanco0798" target="blank"><img src="https://img.shields.io/twitter/follow/pabloblanco0798?logo=twitter&style=for-the-badge" alt="pabloblanco0798" /></a> </p>
 
-- 🔭 I’m currently working on [tipyme](https://tipyme.vercel.app)
-
-- 🌱 I’m currently learning **TypeScript**
-
-- 👯 I’m collaborating to [potassium](https://github.com/PabloB07/potassium)
-
-- 📝 I regularly write articles on [https://blancocl.vercel.app](https://blancocl.vercel.app)
+- 🔭 I’m currently working on [frutify](https://frutify.cl)
 
 - 📫 How to reach me **pablob0798@gmail.com**
 
